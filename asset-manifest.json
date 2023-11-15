@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/luxestay-client/static/css/main.8d0c6a13.css",
+    "main.js": "/luxestay-client/static/js/main.ae9dbfa4.js",
+    "index.html": "/luxestay-client/index.html",
+    "main.8d0c6a13.css.map": "/luxestay-client/static/css/main.8d0c6a13.css.map",
+    "main.ae9dbfa4.js.map": "/luxestay-client/static/js/main.ae9dbfa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d0c6a13.css",
+    "static/js/main.ae9dbfa4.js"
+  ]
+}
